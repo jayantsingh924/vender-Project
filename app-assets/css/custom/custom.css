@@ -1,0 +1,5 @@
+.modal-header{margin-bottom:30px;}
+.modal {
+    position: absolute !important;
+    max-height: 100% !important;
+}
